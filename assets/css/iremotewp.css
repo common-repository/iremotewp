@@ -1,0 +1,54 @@
+#iremotewp_settings {
+	background:#FFFFFF;
+	padding:20px;
+    font-size: 16px;
+    font-weight: 400;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+#iremote_info {
+	background:#FFFFFF;
+	padding:20px;
+	margin-top:30px;
+	border:3px solid #2DA1CC;
+    font-size: 16px;
+    font-weight: 400;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.iremotewp_messages, #iremote_info p {
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.iremotewp_settings .nav-tab {
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.iremotewp_settings .nav-tab-active {
+	font-size: 16px;
+	font-weight: 400;
+	background-color: #FFFFFF; 
+}
+
+.irem_verify_key {
+	font-size: 16px;
+	font-weight: 400;
+	background-color: #f9f9f9 !important;
+	border-radius: 5px;
+	margin: 0px; 
+	width:90%;
+	padding: 15px !important;
+}
+
+.irem_save_key {
+    font-size: 16px !important;
+    font-weight: 400;
+    padding: 0px 15px 0px 15px !important;
+    line-height: 42px !important;
+    height: auto !important;
+    margin-top: 20px !important;
+    display: block !important;
+    background: #2DA1CC !important;
+}
